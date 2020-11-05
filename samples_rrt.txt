@@ -1,0 +1,4 @@
+#npo. of samples
+room: 1840
+singl_cube: 47
+window: 2081
